@@ -10,9 +10,9 @@ I build practical systems and develop research on how AI agents handle conflicti
 
 **Research protocol v0.1 — Evaluating Autonomous Agent Reliability Under Conflicting and Incomplete Evidence.**
 
-The repository currently contains a protocol and a fictional example. It proposes methods for examining factual support, source attribution, contradiction handling, uncertainty, and repeated-run reliability.
+The provider-neutral repository contains a research protocol, a fictional example, and draft evaluation tooling. It proposes methods for examining factual support, source attribution, contradiction handling, uncertainty, and repeated-run reliability across AI systems.
 
-**Claude/API experiments are planned, not conducted. There are no benchmark results yet.**
+**Formal model experiments are planned, not conducted. There are no validated benchmark results yet.**
 
 I also build local software, Python automation tools, and data-system prototypes.
 
