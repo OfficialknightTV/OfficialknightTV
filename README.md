@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/mbani/MBANI_ICON_MONO_BLACK_WHITE_BG.svg" width="110" alt="MBANI icon">
+  <img src="assets/mbani/MBANI_ICON_METALLIC_TRANSPARENT.svg" width="105" alt="MBANI icon">
+</p>
+
+<p align="center">
+  <img src="assets/mbani/MBANI_WORDMARK_METALLIC_TRANSPARENT.svg" width="540" alt="MBANI">
 </p>
 
 # Merveille Okouya
@@ -11,10 +15,6 @@ I build and test AI, automation, data, and software systems under the **MBANI** 
 ## MBANI
 
 MBANI is the parent identity for my research, engineering, and systems work.
-
-<p>
-  <img src="assets/mbani/MBANI_LABS_MONO_BLACK_WHITE_BG.svg" width="520" alt="MBANI Labs">
-</p>
 
 **MBANI Labs** — research, experimentation, and capability exploration.
 
