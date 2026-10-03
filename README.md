@@ -19,7 +19,7 @@ MBANI is the parent identity for my research, engineering, and systems work.
 **MBANI Labs** — research, experimentation, and capability exploration.
 
 <p>
-  <img src="assets/mbani/MBANI_SYSTEMS_WORDMARK_MONO_BLACK_WHITE_BG.svg" width="520" alt="MBANI Systems">
+  <img src="assets/mbani/MBANI_WORDMARK_MONO_BLACK_WHITE_BG.svg" width="520" alt="MBANI Systems">
 </p>
 
 **MBANI Systems** — implementation and operational delivery.
