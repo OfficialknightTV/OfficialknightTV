@@ -18,23 +18,13 @@ MBANI is the parent identity for my research, engineering, and systems work.
 
 **MBANI Labs** — research, experimentation, and capability exploration.
 
-<p>
-  <img src="assets/mbani/MBANI_WORDMARK_MONO_BLACK_WHITE_BG.svg" width="520" alt="MBANI Systems">
-</p>
-
 **MBANI Systems** — implementation and operational delivery.
 
 **MBANI Nexus** — private internal infrastructure supporting MBANI work.
 
-Internal methods, operating procedures, research workflows, decision frameworks, and unpublished system architecture are intentionally not published here.
+Internal methods, operating procedures, research workflows, decision frameworks, unpublished evaluation systems, and proprietary architecture are intentionally not published here.
 
-## Current public work
-
-### MBANI Agent Reliability Benchmark
-
-Public research project focused on evaluating AI-agent behavior under difficult evidence conditions.
-
-**Status:** active pre-experiment research. Formal benchmark results have not yet been published.
+## Selected work
 
 ### Merveille OS
 
@@ -43,6 +33,8 @@ Local-first desktop software prototype for personal workflow and structured stat
 ### Python Practice Vault
 
 Python automation and learning-tooling project for organizing and maintaining local development work.
+
+Additional MBANI research and engineering projects are maintained privately.
 
 ## Focus areas
 
@@ -56,6 +48,6 @@ Python automation and learning-tooling project for organizing and maintaining lo
 
 ## Public-work policy
 
-This profile documents **what I am building and what has been verified publicly**.
+This profile documents only material intentionally released for public viewing.
 
-Detailed MBANI Labs methods, proprietary operating logic, private research procedures, internal source material, and unpublished experiments remain private unless explicitly released.
+Detailed MBANI Labs methods, private benchmark work, proprietary operating logic, internal research procedures, source material, and unpublished experiments remain private unless explicitly released.
